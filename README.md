@@ -13,3 +13,5 @@ Projenin başarıyla gösterdiği noktalar:
 * Model deploy: Model, API formatında dış sistemlere entegre edilebilir
 
 Kullandığım datasetin Kaggle linki : https://www.kaggle.com/datasets/zahidmughal2343/global-cancer-patients-2015-2024
+
+Kaggle notebook linki : https://www.kaggle.com/code/eceeref/notebook7f33250f3c
