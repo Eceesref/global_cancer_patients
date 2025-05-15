@@ -1,2 +1,14 @@
-# global_cancer_patients
-Machine learning project
+Bu proje, kanser hastalarına ait multidisipliner verilerin işlenerek bireysel sağlık risklerinin tahmini üzerine etkili bir çözüm üretmiştir.
+
+Projenin başarıyla gösterdiği noktalar:
+ - Gerçek dünya sağlık verisi üzerinde anlamlı sonuçlar elde edilmesi
+ - Regresyon modellemesi ve model açıklanabilirliği süreçlerinin uygulanması
+ - Tahminleme doğruluğu yüksek, overfitting riski düşük bir model kurulması
+
+İleride proje şu yönlerde genişletilebilir:
+* Tavsiye sistemleri: Hasta profiline göre tedavi öneri motoru kurulabilir
+* Anomali tespiti: Aykırı veya beklenmedik skorlar erken fark edilebilir
+* Survival Analysis: Survival_Years değişkeni ile hayatta kalma süresi analizi yapılabilir
+* Clustering: Unsupervised learning ile hasta segmentasyonu uygulanabilir
+* Model deploy: Model, API formatında dış sistemlere entegre edilebilir
+
