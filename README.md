@@ -12,3 +12,6 @@ Projenin başarıyla gösterdiği noktalar:
 * Clustering: Unsupervised learning ile hasta segmentasyonu uygulanabilir
 * Model deploy: Model, API formatında dış sistemlere entegre edilebilir
 
+Kullandığım datasetin Kaggle linki : https://www.kaggle.com/datasets/zahidmughal2343/global-cancer-patients-2015-2024
+
+![pp1](https://github.com/user-attachments/assets/5be2583e-97b2-48c0-b5ff-d739d217e5ec)
